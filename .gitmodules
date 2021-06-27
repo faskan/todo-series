@@ -4,3 +4,15 @@
 [submodule "todo-kotlin-quarkus"]
 	path = todo-kotlin-quarkus
 	url = https://github.com/faskan/todo-kotlin-quarkus.git
+[submodule "todo-java-springboot"]
+	path = todo-java-springboot
+	url = https://github.com/faskan/todo-java-springboot.git
+[submodule "todo-kotlin-springboot"]
+	path = todo-kotlin-springboot
+	url = https://github.com/faskan/todo-kotlin-springboot.git
+[submodule "todo-java-quarkus"]
+	path = todo-java-quarkus
+	url = https://github.com/faskan/todo-java-quarkus.git
+[submodule "todo-micronaut-kotlin"]
+	path = todo-micronaut-kotlin
+	url = https://github.com/faskan/todo-micronaut-kotlin.git
