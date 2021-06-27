@@ -1,3 +1,6 @@
 [submodule "todo-micronaut-java"]
 	path = todo-micronaut-java
 	url = https://github.com/faskan/todo-micronaut-java.git
+[submodule "todo-kotlin-quarkus"]
+	path = todo-kotlin-quarkus
+	url = https://github.com/faskan/todo-kotlin-quarkus.git
