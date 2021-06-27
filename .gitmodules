@@ -16,3 +16,6 @@
 [submodule "todo-micronaut-kotlin"]
 	path = todo-micronaut-kotlin
 	url = https://github.com/faskan/todo-micronaut-kotlin.git
+[submodule "todo-angular"]
+	path = todo-angular
+	url = C:/Program Files/Git/todo-angular
